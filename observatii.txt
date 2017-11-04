@@ -1,0 +1,21 @@
+################################################  Tema realizata de Codreanu Alexei ########################################################
+
+Observatii :
+
+1) 
+    Subpunctele de la exercitiul 3 au fost realizate separat .
+Acest lucru permite o vizualizare mai transparenta a acestora .
+
+
+2)
+    In unele exercitii nu am comentat toate functiile 
+din cauza repetitiilor multiple a acestora.
+
+3) 
+    La exercitiul 3 :  Am ales ca numarul de impulsuri reprezentate 
+sa fie fixat de bucla "for" (Puteam sa o implementez astfel incat sa mearga pana la lungimea lui "t")
+,dar procesorul se suprasolicita . Daca implementam bucla "for": sa incrementeze "n"-ul pana la 
+lungimea vectorului "t" (sau "timp") atunci observam ca se poate modifica numarul de impulsui doar prin
+modificarea valorilor lui t .
+    
+
